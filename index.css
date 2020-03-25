@@ -1,14 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
-
-
-.love{
-  margin: 0;
-	font-size: 12px;
-	padding: 1em;
-  text-align: center;
-  font-family: Mansalva;
-}
 
 body {
   --primary: hsl(358.8,70.7%,40.2%);
